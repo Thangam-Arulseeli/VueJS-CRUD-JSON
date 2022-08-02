@@ -1,0 +1,82 @@
+{
+  "contacts": [
+    {
+      "id": "aaaaa",
+      "name": "Arockia Seelan",
+      "company": "Infosis",
+      "email": "seelan@gmail.com",
+      "title": "Project Lead",
+      "mobile": "9894205895",
+      "photo": "https://th.bing.com/th/id/R.6b0022312d41080436c52da571d5c697?rik=ejx13G9ZroRrcg&riu=http%3a%2f%2fpluspng.com%2fimg-png%2fuser-png-icon-young-user-icon-2400.png&ehk=NNF6zZUBr0n5i%2fx0Bh3AMRDRDrzslPXB0ANabkkPyv0%3d&risl=&pid=ImgRaw&r=0",
+      "groupId": "2"
+    },
+    {
+      "id": "bbbbbb",
+      "name": "Michael Churchill",
+      "company": "Wipro",
+      "email": "churchill@gmail.com",
+      "title": "System Engineer",
+      "mobile": "9894205895",
+      "photo": "https://i.pinimg.com/736x/5f/40/6a/5f406ab25e8942cbe0da6485afd26b71.jpg",
+      "groupId": "3"
+    },
+    {
+      "id": "cccccccc",
+      "name": "Jeyam Christin",
+      "company": "TCS",
+      "email": "jeyam@gmail.com",
+      "title": "HR Manager",
+      "mobile": "9909895895",
+      "photo": "https://cdn4.iconfinder.com/data/icons/people-avatar-2-1/128/60-512.png",
+      "groupId": "4"
+    },
+    {
+      "id": "dddddddd",
+      "name": "Joseph Daniel",
+      "company": "CGVAK-Covai",
+      "email": "daniel@gmail.com",
+      "title": "DB admin",
+      "mobile": "9894209090",
+      "photo": "https://th.bing.com/th/id/OIP.08QlgS6XlzNXeGDcCqqUVQHaHa?w=192&h=192&c=7&r=0&o=5&pid=1.7",
+      "groupId": "2"
+    },
+    {
+      "name": "Helena",
+      "company": "TCS",
+      "email": "helena@gmail.com",
+      "title": "Engineer",
+      "mobile": "9893328756",
+      "photo": "https://www.vippng.com/png/detail/88-881947_free-icons-png-user-female-icon-png.png",
+      "groupId": "1",
+      "id": "UfiBJU9"
+    },
+    {
+      "name": "D Thangam Arulseeli",
+      "company": "TCS",
+      "email": "seeliseelan@gmail.com",
+      "title": "Lead",
+      "mobile": "09940897321",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTySd-IPkJ6km8YNLZ_9uAtJcf9bW6Sqj4Qaw&usqp=CAU",
+      "groupId": "2",
+      "id": "0gtXFWE"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Colleague"
+    },
+    {
+      "id": "2",
+      "name": "Family"
+    },
+    {
+      "id": "3",
+      "name": "Friends"
+    },
+    {
+      "id": "4",
+      "name": "Service"
+    }
+  ]
+}
